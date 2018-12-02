@@ -1,7 +1,5 @@
 # correlation_object_tracker
-Dlib's correlation-based object tracker.
-
-http://blog.dlib.net/2015/02/dlib-1813-released.html
+Dlib's correlation-based object tracker: http://blog.dlib.net/2015/02/dlib-1813-released.html
 
 The input is a bounding box of the object and then the tracker automatically tracks the object based on the correlation of pixels.
 
