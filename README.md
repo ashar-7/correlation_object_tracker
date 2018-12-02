@@ -15,7 +15,7 @@ The input is a bounding box of the object and then the tracker automatically tra
   Run the script, press 'p' to pause the video when you want, then select the bounding box by dragging with the mouse and press 't' to start tracking. Press 't' again to stop tracking.
   
 ## Controls:
-  <li> --> Press 'p' to pause the video.</li>
-  <li> --> Press 's' to skip frames.</li>
-  <li> --> Press 't' to toggle tracking.</li>
-  <li> --> Press 'q' to quit.</li>
+  <li> Press 'p' to pause the video.</li>
+  <li> Press 's' to skip frames.</li>
+  <li> Press 't' to toggle tracking.</li>
+  <li> Press 'q' to quit.</li>
