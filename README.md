@@ -6,11 +6,17 @@ The input is a bounding box of the object and then the tracker automatically tra
 #### NOTE: SELECT THE BOUNDING BOX BY DRAGGING FROM TOP LEFT TO BOTTOM RIGHT OF THE OBJECT, OTHERWISE IT'LL THROW AN ERROR.
 
 ## Usage:
+Single object tracking:
+
   `python video_object_track.py -video video.mp4 -width 800 -height 600`
+  
+Multi object tracking:
+
+  `python multi_video_object_track.py -video video.mp4 -width 800 -height 600`
   
   The default width is 800 and height is 600.
   
-  Run the script, press 'p' to pause the video when you want, then select the bounding box by dragging with the mouse and press 't' to start tracking. Press 't' again to stop tracking.
+  Run the script, press 'p' to pause the video when you want, then select the bounding box(es) by dragging with the mouse and press 't' to start tracking. Press 't' again to stop tracking.
   
 ## Controls:
   <li> Press 'p' to pause/unpause the video.</li>
