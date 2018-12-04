@@ -76,7 +76,7 @@ while True:
     cv2.putText(draw_frame, 'Tracking: ' + str(tracking), (10, WIN_HEIGHT - 25), cv2.FONT_HERSHEY_SIMPLEX, 0.45, (0, 255, 0), 2)
     cv2.imshow(WIN_NAME, draw_frame)
 
-    key = cv2.waitKey(17) & 0xFF
+    key = cv2.waitKey(1) & 0xFF
     if key == ord('q'):
         break
     if key == ord('s'):
