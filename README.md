@@ -23,3 +23,4 @@ Multi object tracking:
   <li> Press 's' to skip frames.</li>
   <li> Press 't' to toggle tracking.</li>
   <li> Press 'q' to quit.</li>
+  <li> Drag with mouse to select a bounding box. </li>
