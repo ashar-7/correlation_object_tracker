@@ -1,7 +1,6 @@
 import argparse
 import cv2
 import dlib
-import numpy as np
 
 # drag and select the roi
 def drag_and_select(event, x, y, flags, param):
